@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cloud Campus<br>🌱 I’m currently learning DSA in C, Flask, Javascript<br>💬 Ask me about Python, MySQL, Web Development<br>⚡ Fun fact I am Ironman
+🔭 I’m currently working on Cloud Campus<br>🌱 I’m currently learning DSA in Java, Java(SpringBoot), Javascript<br>💬 Ask me about ,Java,Python, MySQL, Web Development<br>⚡ Fun fact I am Ironman
 
 
 ## 🌐 Socials:
