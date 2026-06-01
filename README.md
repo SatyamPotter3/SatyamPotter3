@@ -1,13 +1,123 @@
-# 💫 About Me:
-🌱 I’m currently learning DSA in Java, Java(SpringBoot), Javascript<br>💬 Ask me about ,Java, MySQL, Web Development<br>⚡ Fun fact I am Ironman
+Hi 👋, I'm Satyam Tripathi
+
+🚀 Java Full Stack Developer | Spring Boot Enthusiast | React & Vue Developer
+
+Welcome to my GitHub profile! I'm a passionate software developer who enjoys building scalable backend systems, creating modern web applications, and continuously learning new technologies. I believe in writing clean, maintainable code and solving real-world problems through technology.
+
+---
+
+💫 About Me
+
+💻 Java Full Stack Developer with expertise in backend and frontend development.
+
+🌱 Currently expanding my knowledge in advanced Spring Boot, Microservices, and modern web technologies.
+
+🚀 Passionate about building efficient REST APIs, database-driven applications, and responsive user interfaces.
+
+🎯 Focused on improving problem-solving skills through Data Structures & Algorithms.
+
+🤝 Experienced with Agile workflows and project management using Jira.
+
+---
+
+🛠️ Tech Stack
+
+Backend Development
+
+- Java (JSE & J2EE)
+- Spring Boot
+- Hibernate 
+- Spring JPA
+- Spring MVC
+- Java Database Connectivity(JDBC)
+- REST APIs
+
+Frontend Development
+
+- React
+- Vue.js
+- Bootstrap
+- HTML5
+- CSS3
+- JavaScript
+
+Database
+
+- MySQL
+
+Tools & Platforms
+
+- Git
+- GitHub
+- Jira
+- Postman
+- VS Code
+- IntelliJ IDEA
+
+---
+
+🚀 Featured Projects
+
+📚 Book Application Backend System
+
+A robust backend application built using Spring Boot that provides RESTful APIs for managing books and related operations.
+
+Tech Stack: Java, Spring Boot,Hibernate,H2 database, REST APIs
+
+📝 Quiz Application
+
+An interactive and responsive quiz platform featuring dynamic question handling, score tracking, and an engaging user experience.
+
+Tech Stack: HTML, CSS, Bootstrap, JavaScript
+
+🏨 Hotel Management System
+
+A database-driven hotel management solution developed using JDBC to efficiently manage hotel operations and customer records.
+
+Tech Stack: Java, JDBC, MySQL
+
+---
+
+🎯 Current Learning Goals
+
+✔ Advanced Spring Boot
+
+✔ Microservices Architecture
+
+✔ System Design
+
+✔ Data Structures & Algorithms
+
+✔ Cloud Technologies
+
+✔ Production-Ready Full Stack Development
+
+---
+
+📈 GitHub Journey
+
+I enjoy building projects that strengthen my understanding of software engineering principles and help me grow as a developer. Every repository represents a step forward in my learning journey and commitment to continuous improvement.
+
+---
+
+🌟 What Drives Me
+
+«"Technology is not just about writing code; it's about creating solutions that make a difference."»
+
+I am always open to learning, collaborating on exciting projects, and connecting with fellow developers.
+
+---
+
+🤝 Let's Connect
+
+📧 Email: satyamtripathi1357@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/satyamtripathi10
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyamnamikaze10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamtripathi10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/satyamnamikaze) 
+---
 
-# 💻 Tech Stack:
-Java 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SatyamPotter3&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SatyamPotter3&theme=shades-of-purple&hide_border=false)<br/>
