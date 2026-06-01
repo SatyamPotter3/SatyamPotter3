@@ -1,6 +1,6 @@
 Hi 👋, I'm Satyam Tripathi
 
-🚀 Java Full Stack Developer | Spring Boot Enthusiast | React & Vue Developer
+🚀 Java Full Stack Developer
 
 Welcome to my GitHub profile! I'm a passionate software developer who enjoys building scalable backend systems, creating modern web applications, and continuously learning new technologies. I believe in writing clean, maintainable code and solving real-world problems through technology.
 
